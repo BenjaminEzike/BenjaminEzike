@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Benjamin Ezike
-- 👀 I’m interested in Data analysis/Machine Learning, Operations Research, Mechanical engineering and Industrial Engineering.
-- 🌱 I’m currently learning more on data analysis and machine learning
-- 💞️ I’m looking to collaborate on machine learning topics and projects
+- 👀 My education includes a master's in Industrial engineering, and a bachelors in mechanical engineering
+-    Currently working as a production engineer, working with Database technologies (SQL Server, PostgreSql, et Oracle)
+-    Also with DevOps tools, including Cloud (AWS et Azure), Git, Ansible, Docker, Kubernetes
+-    I have academic interests in the fields of operations research, machine learning applications, supply chains and everything modelling
+- 🌱 I like the idea of continous learning
 - 📫 How to reach me ezikechukwuemeka@gmail.com
 
 <!---
